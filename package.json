@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/SarthakSkamble/campus_cafe/issues"
   },
-  "homepage": "https://github.com/SarthakSkamble/campus_cafe#readme"
+  "homepage": "https://github.com/SarthakSkamble/campus_cafe#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2"
+  }
 }
