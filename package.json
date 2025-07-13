@@ -1,0 +1,19 @@
+{
+  "name": "backend_of_app",
+  "version": "1.0.0",
+  "description": "Its backend for the app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarthakSkamble/campus_cafe.git"
+  },
+  "author": "Sarthak S  kamble",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SarthakSkamble/campus_cafe/issues"
+  },
+  "homepage": "https://github.com/SarthakSkamble/campus_cafe#readme"
+}
